@@ -13,9 +13,9 @@ A trip to New York is a thrilling experience because of the city's famous sites,
 3. Broadway Show
 
 
-*New York-style Pizza <br>
-*Italian pasta <br>
-*Cronuts <br>
-*Chicken Tikka Masala<br>
-*Burgers <br>
-*New York Cheesecake
+* New York-style Pizza <br>
+* Italian pasta <br>
+* Cronuts <br>
+* Chicken Tikka Masala<br>
+* Burgers <br>
+* New York Cheesecake
