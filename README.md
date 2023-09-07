@@ -19,3 +19,5 @@ A trip to New York is a thrilling experience because of the city's famous sites,
 * Chicken Tikka Masala<br>
 * Burgers <br>
 * New York Cheesecake
+
+![My intro](MyStats.md)
