@@ -21,3 +21,23 @@ A trip to New York is a thrilling experience because of the city's famous sites,
 * New York Cheesecake
 
 ![My intro](MyStats.md)
+
+-----
+## Table
+Scoreboards and standings tables, sometimes known as sports tables, are vital instruments in the world of sports. They offer a visual depiction of the accomplishments and standings of groups or individuals in a certain athletic event. These tables frequently provide significant data, like team names, points obtained, victories, defeats, draws (if applicable), goals scored, and goals allowed.
+
+
+|Sport name|Reason|Avg hours week|
+|:---:|:---:|:---:|
+|Basketball|Great for cardiovascular fitness, teamwork, and agility|5-10 hours|
+|Cycling| Ideal for outdoor enthusiasts, cardiovascular health, and exploring nature|6-12 hours|
+|Soccer|Develops endurance, teamwork, and agility|4-8 hours|
+|Tennis|Enhances hand-eye coordination, balance, and social interaction|3-7 hours|
+----
+## Quotes
+>You have to dream before your dreams can come true. -*Author APJ Abdul Kalam*<br>
+>A dream is not that which you see while sleeping, it is something that does not let you sleep. -*Author APJ Abdul Kalam*<br>
+----
+## 
+
+
