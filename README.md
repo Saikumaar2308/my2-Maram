@@ -45,6 +45,8 @@ css-tricks :- https://css-tricks.com/snippets/svg/svg-patterns/
 
 Stackoverflow link :- https://stackoverflow.com/questions/68358881/svg-patterns-for-a-dash-and-cross-symbols
 
+<object
+```
 <div style="position: absolute; width: 0; height: 0;">
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
       <defs>
@@ -72,6 +74,7 @@ Stackoverflow link :- https://stackoverflow.com/questions/68358881/svg-patterns-
     <rect width="25px" height="100px" fill="url(#pattern3)"/>
   </svg>
 </div>
+```
 
 
 
