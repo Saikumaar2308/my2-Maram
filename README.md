@@ -36,7 +36,8 @@ Scoreboards and standings tables, sometimes known as sports tables, are vital in
 ----
 ## Quotes
 >You have to dream before your dreams can come true. -*Author APJ Abdul Kalam*<br>
->A dream is not that which you see while sleeping, it is something that does not let you sleep. -*Author APJ Abdul Kalam*<br>
+>A dream is not that which you see while sleeping, it is something that does not let you sleep.
+ -*Author APJ Abdul Kalam*<br>
 ----
 ## 
 
